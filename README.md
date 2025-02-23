@@ -36,13 +36,24 @@ Underperforming Categories:
 Possible Reasons for Performance Differences
 Why Some Categories Perform Well?
 High Demand Products – Popular items like electronics sell in large volumes.
+
+
 Better Pricing Strategy – Higher margins mean the pricing is optimized.
+
 Low Returns & Discounts – Fewer returns lead to higher net profits.
+
 Why Some Categories Underperform?
+
 Heavy Discounts – Lower prices reduce profit margins.
+
 High Return Rates – Frequent refunds impact profitability.
+
 Supply Chain Costs – Expensive shipping or production increases costs.
+
 📈 Recommendations
+
 🔹 Increase focus on high-margin categories with marketing & inventory.
+
 🔹 Improve pricing for underperforming categories to raise margins.
+
 🔹 Reduce operational costs (supply chain, storage, discounts).
