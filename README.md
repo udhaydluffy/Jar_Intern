@@ -1,3 +1,8 @@
+![ScreenShot 01](https://github.com/user-attachments/assets/1e799bb2-18da-492d-a36a-917c701f4a91)
+
+
+
+
 Sales Analysis:
 Part 1: Sales and Profitability Analysis
 Merged the List of Orders and Order Details datasets on the basis of Order ID by Inner join using Power Query Editor .
