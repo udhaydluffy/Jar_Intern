@@ -12,16 +12,25 @@ Calculated the total sales (Amount) for each category across all orders.
 • Identified the top-performing and underperforming categories based on these
 metrics and visualized in a table chart. Also, suggested reasons for their performance diEerences.
 
-Top-Performing Categories
+Top-Performing Categories:
+
 ✅ High Total Sales
+
+
 ✅ High Profit Margin (%)
+
 ✅ High Average Profit per Order
+
 ➡ These categories generate strong revenue efficiently.
 
-Underperforming Categories
+Underperforming Categories:
+
 ❌ Low or Negative Profit Margins
+
 ❌ Low Average Profit per Order
+
 ❌ High Sales but Low Profits
+
 ➡ These categories might have high costs, low pricing, or low demand.
 
 Possible Reasons for Performance Differences
